@@ -86,15 +86,4 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sridevi1579&show_icons=true&theme=radical" alt="sridevi1579 stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sridevi1579&theme=radical" alt="sridevi1579 streak" />
-</p>
-
----
-
 🎯 *Let's connect and build amazing things together!* 🚀
