@@ -10,7 +10,7 @@
 ---
 
 ### About Me 👋
-- 🎓 Master's in Computer Science at **GMU** | Currently Enrolled
+- 🎓 Master's in Computer Science at **GMU** 
 - 💻 **Full Stack Developer @ JPMorgan Chase** | Jul 2024 — Present
 - 💼 Ex **Software Engineer @ Infosys** | Jan 2022 — Jul 2023
 - 🌱 Passionate about Full-Stack Development, Cloud Technologies, and Advanced Algorithms
