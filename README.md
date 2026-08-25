@@ -11,8 +11,8 @@
 
 ### About Me 👋
 - 🎓 Master's in Computer Science at **GMU** 
-- 💻 **Software Engineer @ JPMorgan Chase** | Jul 2024 — Present
-- 💼 Ex **Software Engineer @ Infosys** | Jan 2022 — Jul 2023
+- 💻 **Software Engineer @ JPMorgan Chase** 
+- 💼 Ex **Software Engineer @ Infosys**
 - 🌱 Passionate about Software Development, Cloud Technologies, and Advanced Algorithms
 - 👩‍💻 Experienced in leading development teams and delivering high-impact projects
 - 📊 Driven to tackle challenges, innovate, and stay ahead with cutting-edge technologies
